@@ -4,3 +4,7 @@ git commit -m "Primer Parcial"
 git status
 git branch -M main
 git push -u origin main
+git add . 
+git commit -m "color"
+git push -u origin HotFixParcial
+git push -u origin HotFixParcial
